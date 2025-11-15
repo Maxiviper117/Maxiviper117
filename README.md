@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Davi_g117) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WonderingDavid) 
 
 # Small Side Projects:
  - [Generate CSS Color Palette](https://maxiviper117.github.io/generate-colors-tailwindv4/)
