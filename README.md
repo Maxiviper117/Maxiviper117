@@ -6,7 +6,7 @@
  - [dotenvx-interactive-cli](https://github.com/Maxiviper117/dotenvx-interactive-cli) - CLI for interacting with dotenx-cli with simple TUI.
  - [360 to planar images](https://github.com/Maxiviper117/360-to-planer-images) - Convert 360 images to custom orientated planar images for using in Gaussian Splat creation.
  - [RealityCapture-to-Postshot](https://github.com/Maxiviper117/RealityCapture-to-Postshot) - Converting Reality capture output to format to Postshot compatible format for Gaussian Splat creation.
- - [docker-ubuntu-server-sim-vps](https://github.com/Maxiviper117/docker-ubuntu-server-sim-vps) - Allows user to run a simulated Ubuntu VPS locally using Docker.
+ - [docker-ubuntu-server-sim-vps](https://github.com/Maxiviper117/docker-ubuntu-server-sim-vps) - Allows user to run a simulated Ubuntu VPS locally using Docker with SSH access to the container.
  - [Generate CSS Color Palette](https://maxiviper117.github.io/generate-colors-tailwindv4/) 
  - [CSS Clamp Calculator](https://maxiviper117.github.io/css-clamp-calculator/)
 
