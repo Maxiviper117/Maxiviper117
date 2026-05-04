@@ -2,6 +2,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WonderingDavid) 
 
 # Small Side Projects:
+ - [devproxy](https://github.com/Maxiviper117/dev-proxy) - DevProxy is a cross-platform CLI for stable HTTPS .local domains that proxy to local development services on Windows, macOS, and Linux. On Windows, it also works well with apps running in WSL, Docker, or native Windows processes as long as the service is reachable through loopback.
  - [result-flow](https://github.com/Maxiviper117/result-flow) - Result Return type for PHP
  - [dotenvx-interactive-cli](https://github.com/Maxiviper117/dotenvx-interactive-cli) - CLI for interacting with dotenx-cli with simple TUI.
  - [360 to planar images](https://github.com/Maxiviper117/360-to-planer-images) - Convert 360 images to custom orientated planar images for using in Gaussian Splat creation.
